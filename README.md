@@ -1,5 +1,6 @@
 # Python_project
-Hello there!/
+Hello there!
+
 This repository holds my programming projects which were done during the period of Stanford University CS106A course/
 
 # My Progects
