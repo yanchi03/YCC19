@@ -1,7 +1,7 @@
 # Python_project
 Hello there!
 
-This repository holds my programming projects which were done during the period of Stanford University CS106A course/
+This repository holds my programming projects which were done during the period of Stanford University CS106A course.
 
 # My Progects
 *[BeeperRow.py](https://github.com/yanchi03/YCC19/blob/main/Python_Project/BeeperRow.py)
